@@ -7,7 +7,7 @@ _Endless runner 3D game built with Unity Game engine and C# programming language
 This game was made with the help of ***N3K EN***'s [Endless Runner Tutorial series](https://www.youtube.com/watch?v=7jdL5538bEo&list=PLLH3mUGkfFCXps_IYvtPcE9vcvqmGMpRK&ab_channel=N3KEN).
 Game development was continued after the end of the mentioned tutorial series. <br>
 
-If you want to play Speedy Zeedy, you can download it from here -> [Speedy Zeedy Download](https://drive.google.com/drive/folders/1jROYjOmRT3W1iDNbV_MqjOlGdFdOjFHv?usp=sharing). <br>
+If you want to play Speedy Zeedy, you can download it from here -> [Speedy Zeedy Download](https://drive.google.com/file/d/1WTIHK4QYTlqeSSpbvN1mY6-3BoGS0sMc/view?usp=sharing). <br>
 - - - -
 
 ### About the game ###
