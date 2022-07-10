@@ -24,20 +24,20 @@ Game is played in the third person and by genre it belongs to the action games w
 
 Here is how the game looks:
 
-###Main Menu###
+## Main Menu ##
 _On the upper left corner of this screen ***Longest run*** and ***best time*** highscores can be found._ <br>
 _Also, there are buttons to enter ***INFINITE RUN*** and ***300M RUN***, as well as the button to ***QUIT*** the game._ <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58775766/178157031-d480d18b-9119-4632-8397-40fcaedf7101.png" width="90%" >
 </p>
 
-###Infinite run game mode###
+## Infinite run game mode ##
 _On this screen character is moving on the path with obstacles. Also, there is current score number at the top of the screen._ <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58775766/178157215-211d9328-ddbc-4d98-b271-81bc70c87b47.png" width="90%" >
 </p>
 
-###300m run game mode###
+## 300m run game mode ##
 _On this screen character is moving on the path with obstacles in second game mode. At the top of the screen elapsed time is shown and at the bottom right corner remaining meters are displayed._ <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58775766/178157340-adf6e65c-d231-4987-8b51-3e8f58d0a206.png" width="90%" >
